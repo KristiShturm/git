@@ -95,6 +95,5 @@ _*слияние любой ветки с текущей (в которой се
 
     git branch -d <name branching>
 
-    git branch -d <name branching>
 
     
